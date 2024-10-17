@@ -8,7 +8,7 @@ const About: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-8 md:mb-0">
             <img
-              src="professional.image.jpg"
+              src="src\components\professional.image.jpg"
               alt="Bittu Dey"
               className="rounded-full w-64 h-64 object-cover mx-auto"
             />
@@ -18,7 +18,7 @@ const About: React.FC = () => {
               I'm Bittu Dey, a passionate Full Stack Developer with a strong
               background in web technologies. My journey in the world of
               programming started with a B.Tech in Computer Science and
-              Engineering from Techno India University, West Bengal.
+              Engineering from Sister Nivedita University, West Bengal.
             </p>
             <p className="text-lg mb-4">
               I have experience working with various technologies including
