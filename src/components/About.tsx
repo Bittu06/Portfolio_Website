@@ -8,7 +8,7 @@ const About: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-8 md:mb-0">
             <img
-              src="src\components\professional.image.jpg"
+              src="https://media.licdn.com/dms/image/D5603AQFUy_UMMLIDag/profile-displayphoto-shrink_200_200/0/1715312635390?e=2147483647&v=beta&t=LeYlwQ2bAVlp_rXflGLnJ3qBHHr0SMSBaBKwI-AaFtk"
               alt="Bittu Dey"
               className="rounded-full w-64 h-64 object-cover mx-auto"
             />
